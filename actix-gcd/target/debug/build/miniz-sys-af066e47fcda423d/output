@@ -1,0 +1,27 @@
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("cmpxchg16b,fxsr,llvm14-builtins-abi,sse,sse2,sse3,ssse3")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-arch" "x86_64" "-DMINIZ_NO_STDIO" "-DMINIZ_NO_ARCHIVE_APIS" "-DMINIZ_NO_ARCHIVE_WRITING_APIS" "-DMINIZ_NO_TIME" "-DMINIZ_NO_ZLIB_COMPATIBLE_NAMES" "-o" "/Users/jiri/Documents/rust-projects/actix-gcd/target/debug/build/miniz-sys-af066e47fcda423d/out/miniz.o" "-c" "miniz.c"
+exit status: 0
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/Users/jiri/Documents/rust-projects/actix-gcd/target/debug/build/miniz-sys-af066e47fcda423d/out/libminiz.a" "/Users/jiri/Documents/rust-projects/actix-gcd/target/debug/build/miniz-sys-af066e47fcda423d/out/miniz.o"
+exit status: 0
+running: "ar" "s" "/Users/jiri/Documents/rust-projects/actix-gcd/target/debug/build/miniz-sys-af066e47fcda423d/out/libminiz.a"
+exit status: 0
+cargo:rustc-link-lib=static=miniz
+cargo:rustc-link-search=native=/Users/jiri/Documents/rust-projects/actix-gcd/target/debug/build/miniz-sys-af066e47fcda423d/out
+cargo:root=/Users/jiri/Documents/rust-projects/actix-gcd/target/debug/build/miniz-sys-af066e47fcda423d/out
