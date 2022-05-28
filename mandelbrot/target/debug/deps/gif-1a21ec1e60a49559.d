@@ -1,0 +1,13 @@
+/Users/jiri/Documents/rust-projects/mandelbrot/target/debug/deps/gif-1a21ec1e60a49559.rmeta: /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/jiri/Documents/rust-projects/mandelbrot/target/debug/deps/libgif-1a21ec1e60a49559.rlib: /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/jiri/Documents/rust-projects/mandelbrot/target/debug/deps/gif-1a21ec1e60a49559.d: /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs:
+/Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs:
+/Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs:
+/Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs:
+/Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs:
+/Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs:
+/Users/jiri/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs:
